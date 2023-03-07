@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **Advanced Typescript**
 
-- 🤝 I’m looking for help with **Communities**
-
 - 📝 I regularly write articles on [bello.dev](bello.dev)
 
 - 💬 Ask me about **Flutter, Vue, Firebase, Nodejs**
 
-- 📫 How to reach me **saeedbello12@gmail.com**
+- 📫 How to reach me **bello27699@cbn.gov.ng**
 
 - 📄 Know about my experiences [bello.dev/resume](bello.dev/resume)
 
