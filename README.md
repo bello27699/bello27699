@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saeed Bello</h1>
 <h3 align="center">A passionate mobile developer</h3>
 
-- 🔭 I’m currently working on **nokash**
+- 🔭 I’m currently working on node
 
 - 🌱 I’m currently learning **Advanced Typescript**
 
